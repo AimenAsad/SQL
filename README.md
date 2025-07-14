@@ -1,6 +1,3 @@
-This project explores database design and SQL querying through the lens of an airplane and owner management system. It's built around a conceptual ERD and demonstrates various SQL capabilities, from basic data display to complex nested queries and aggregations.
-
----
 
 ## 📊 ERD (Entity-Relationship Diagram) Design
 
