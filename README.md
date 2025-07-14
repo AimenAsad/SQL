@@ -1,11 +1,3 @@
-# ✈️ Airplane & Owner Management Database Project
-
-This repository showcases a comprehensive database project focused on managing airplane and owner information. It includes a detailed Entity-Relationship Diagram (ERD) for the database schema and a series of SQL queries designed to interact with and extract insights from the data.
-
----
-
-## 🚀 Project Overview
-
 This project explores database design and SQL querying through the lens of an airplane and owner management system. It's built around a conceptual ERD and demonstrates various SQL capabilities, from basic data display to complex nested queries and aggregations.
 
 ---
@@ -26,10 +18,6 @@ The ERD forms the backbone of this database project, illustrating the relationsh
 ---
 
 ## 🔍 SQL Queries
-
-This section details the various SQL queries implemented, categorized by their purpose and the concepts they demonstrate. Queries are divided by contributor for clarity.
-
-### Queries by Haniya (01, 05, 07-09, 13-18, 25)
 
 **QUERY 01** - ERD Explanation
 Description: This section provides a detailed textual explanation of the ERD diagram, outlining the superclass/subclass relationships, entity attributes, and the rationale behind the linkages (as described in the ERD section above).
